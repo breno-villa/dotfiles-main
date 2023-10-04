@@ -1,5 +1,5 @@
 {
-  boot.supportedFilesystems = [ "ntfs" ];
+  # boot.supportedFilesystems = [ "ntfs" ];
 
   boot.loader = {
     timeout = 3;
