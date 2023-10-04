@@ -38,7 +38,7 @@
   #   flatpak.enable = true;
   # };
 
-  KDE Connect
+  # KDE Connect
   networking.firewall = rec {
     allowedTCPPortRanges = [{ from = 1714; to = 1764; }];
     allowedUDPPortRanges = allowedTCPPortRanges;
