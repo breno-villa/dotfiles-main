@@ -20,5 +20,5 @@
     xkbVariant = "";
   };
 
-  console.keyMap = "br-abnt2";
+  # console.keyMap = "br-abnt2";
 }
