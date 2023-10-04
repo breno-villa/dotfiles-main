@@ -3,10 +3,10 @@
   imports = [
     /etc/nixos/hardware-configuration.nix
     # ./asus.nix
-    # ./bootloader.nix
+    ./bootloader.nix
     # ./gnome.nix #already commented
     ./hyprland.nix
-    # ./locale.nix
+    ./locale.nix
     ./nix.nix
     # ./nvidia.nix
     ./sound.nix
